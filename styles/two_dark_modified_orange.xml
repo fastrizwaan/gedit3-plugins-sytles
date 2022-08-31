@@ -6,7 +6,7 @@
   <style name="cursor"	foreground="#5cb0f5" />
   <style name="current-line"	background="#1a1c21" />
   <style name="line-numbers"	foreground="#5f5a60" background="#202329" />
-  <style name="selection"	foreground="#f6f5f4" background="#627e4f" />
+  <style name="selection"	foreground="#ffffff" background="#627e4f" />
   <style name="bracket-match"	foreground="#ffffff" bold="true" />
   <style name="bracket-mismatch"	background="#efefef" bold="true" />
   <style name="search-match"	foreground="#5f5a60" background="#abb2bf" />
@@ -40,4 +40,5 @@
   <style name="sh:others"	foreground="#ffffff" />
   <style name="sh:subshell"	foreground="#d19a65" />
   <style name="c:printf"	foreground="#c678dd" />
+  <style name="selection-unfocused"	foreground="#000000" background="#627e4f" />
 </style-scheme>
