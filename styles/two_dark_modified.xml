@@ -39,4 +39,18 @@
   <style name="sh:common-command"	foreground="#ffbe6f" />
   <style name="sh:others"	foreground="#ffffff" />
   <style name="sh:subshell"	foreground="#ffbe6f" />
+  <style name="markdown:url"	foreground="#99c1f1" />
+  <style name="attribute-value"	foreground="#ffffff" />
+  <style name="markdown:blockquote-marker"	foreground="#f66151" />
+  <style name="markdown:code-block"	foreground="#8ff0a4" />
+  <style name="markdown:code-span"	foreground="#dc8add" />
+  <style name="markdown:emphasis"	foreground="#f9f06b" />
+  <style name="markdown:header"	foreground="#cdab8f" />
+  <style name="markdown:horizontal-rule"	foreground="#1a5fb4" />
+  <style name="markdown:image-marker"	foreground="#a51d2d" />
+  <style name="markdown:label"	foreground="#77767b" />
+  <style name="markdown:line-break"	foreground="#679d47" />
+  <style name="markdown:link-text"	foreground="#679d47" />
+  <style name="markdown:list-marker"	foreground="#d19a65" />
+  <style name="markdown:strong-emphasis"	foreground="#ffffff" />
 </style-scheme>
