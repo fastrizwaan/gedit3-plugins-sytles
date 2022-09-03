@@ -1,6 +1,6 @@
-<style-scheme name="Two Dark Classified" id="two_dark_Classified" version="1.0">
+<style-scheme name="Two Darker Rizvan" id="two_darker_rizvan" version="1.0">
   <author>Mohammed Asif Ali Rizvan</author>
-  <description>Atom One Dark based Theme for Gedit3.</description>
+  <description>Atom One Dark based darker style for Gedit3.</description>
 
   <style name="bracket-match"	foreground="#101010" background="#c678dd" />
   <style name="bracket-mismatch"	background="#efefef" />
@@ -18,12 +18,12 @@
   <style name="def:doc-comment"	foreground="#bc9458" />
   <style name="def:error"	foreground="#efefef" background="#282c34" />
   <style name="def:floating-point"	foreground="#e4bf7b" />
-  <style name="def:function"	foreground="#81cef9" />
+  <style name="def:function"	foreground="#80a0ff" />
   <style name="def:identifier"	foreground="#c678dd" />
   <style name="def:keyword"	foreground="#c678dd" />
   <style name="def:note"	foreground="#5f5a60" />
   <style name="def:number"	foreground="#e4bf7b" />
-  <style name="def:operator"	foreground="#81cef9" />
+  <style name="def:operator"	foreground="#80a0ff" />
   <style name="def:preprocessor"	foreground="#c678dd" />
   <style name="def:reserved"	foreground="#cc7833" />
   <style name="def:shebang"	foreground="#e4bf7b" />
@@ -37,7 +37,7 @@
   <style name="search-match"	foreground="#5f5a60" background="#abb2bf" />
   <style name="selection"	background="#1b334f" />
   <style name="text"	foreground="#abb2bf" background="#101010" />
-  <style name="sh:variable"	foreground="#81cef9" />
+  <style name="sh:variable"	foreground="#80a0ff" />
   <style name="sh:variable-definition"	foreground="#bebebe" />
   <style name="sh:common-command"	foreground="#e4bf7b" />
   <style name="sh:others"	foreground="#ffffff" />
@@ -48,7 +48,7 @@
   <style name="markdown:code-block"	foreground="#679d47" />
   <style name="markdown:code-span"	foreground="#c678dd" />
   <style name="markdown:emphasis"	foreground="#f9f06b" />
-  <style name="markdown:header"	foreground="#99c1f1" />
+  <style name="markdown:header"	foreground="#80a0ff" />
   <style name="markdown:horizontal-rule"	foreground="#1a5fb4" />
   <style name="markdown:image-marker"	foreground="#f66151" />
   <style name="markdown:label"	foreground="#77767b" />
