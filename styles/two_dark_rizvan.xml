@@ -4,7 +4,7 @@
 
   <style name="bracket-match"	foreground="#202329" background="#c678dd" />
   <style name="bracket-mismatch"	background="#efefef" />
-  <style name="current-line"	background="#101010" />
+  <style name="current-line"	background="#1a1c21" />
   <style name="cursor"	foreground="#5cb0f5" />
   <style name="def:base-n-integer"	foreground="#e4bf7b" />
   <style name="def:boolean"	foreground="#e4bf7b" />
