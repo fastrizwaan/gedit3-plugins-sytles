@@ -19,12 +19,12 @@
   <style name="def:doc-comment" foreground="#bc9458" />
   <style name="def:error"	foreground="#efefef" background="#282c34" />
   <style name="def:floating-point"	foreground="#e4bf7b" />
-  <style name="def:function"	foreground="#9ccff4" />
+  <style name="def:function"	foreground="#81cef9" />
   <style name="def:identifier"	foreground="#c678dd" />
   <style name="def:keyword"	foreground="#c678dd" />
   <style name="def:note"	foreground="#5f5a60" />
   <style name="def:number"	foreground="#e4bf7b" />
-  <style name="def:operator"	foreground="#9ccff4" />
+  <style name="def:operator"	foreground="#81cef9" />
   <style name="def:preprocessor"	foreground="#c678dd" />
   <style name="def:reserved" foreground="#cc7833" />
   <style name="def:shebang"	foreground="#e4bf7b" />
@@ -38,7 +38,7 @@
   <style name="search-match"	foreground="#5f5a60" background="#abb2bf" />
   <style name="selection"	foreground="#f6f5f4" background="#627e4f" />
   <style name="text"	foreground="#abb2bf" background="#202329" />
-  <style name="sh:variable"    foreground="#9ccff4" />
+  <style name="sh:variable"    foreground="#81cef9" />
   <style name="sh:variable-definition" foreground="#bebebe" />
   <style name="sh:common-command"      foreground="#e4bf7b" />
   <style name="sh:others"      foreground="#ffffff" />
@@ -60,8 +60,8 @@
   <style name="markdown:attribute-value"       foreground="#ffbe6f" />
   <style name="markdown:backslash-escape"      foreground="#ffffff" />
   <style name="xml:attribute-value"    foreground="#98c379" />
-  <style name="xml:attribute-name"     foreground="#9ccff4" />
-  <style name="attribute-name" foreground="#9ccff4" />
+  <style name="xml:attribute-name"     foreground="#81cef9" />
+  <style name="attribute-name" foreground="#81cef9" />
   <style name="xml:tag"        foreground="#ffffff" />
 
 </style-scheme>
