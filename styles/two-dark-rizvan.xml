@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <style-scheme name="Two Dark Rizvan" id="two_dark_rizvan" version="1.0">
   <author>Mohammed Asif Ali Rizvan</author>
   <description>Atom One Dark based Theme for Gedit3.</description>
@@ -16,7 +15,7 @@
   <style name="def:constant"	foreground="#e4bf7b" />
   <style name="def:decimal"	foreground="#d19a66" />
   <style name="def:doc-comment-element"	foreground="#5f5a60" />
-  <style name="def:doc-comment" foreground="#bc9458" />
+  <style name="def:doc-comment"	foreground="#bc9458" />
   <style name="def:error"	foreground="#efefef" background="#282c34" />
   <style name="def:floating-point"	foreground="#e4bf7b" />
   <style name="def:function"	foreground="#81cef9" />
@@ -26,42 +25,41 @@
   <style name="def:number"	foreground="#e4bf7b" />
   <style name="def:operator"	foreground="#81cef9" />
   <style name="def:preprocessor"	foreground="#c678dd" />
-  <style name="def:reserved" foreground="#cc7833" />
+  <style name="def:reserved"	foreground="#cc7833" />
   <style name="def:shebang"	foreground="#e4bf7b" />
   <style name="def:special-char"	foreground="#98c379" />
   <style name="def:special-constant"	foreground="#c678dd" />
   <style name="def:statement"	foreground="#c678dd" />
   <style name="def:string"	foreground="#98c379" />
   <style name="def:type"	foreground="#c678dd" />
-  <style name="draw-spaces" foreground="#404040" />
+  <style name="draw-spaces"	foreground="#404040" />
   <style name="line-numbers"	foreground="#5f5a60" background="#202329" />
   <style name="search-match"	foreground="#5f5a60" background="#abb2bf" />
-  <style name="selection"	foreground="#f6f5f4" background="#627e4f" />
+  <style name="selection"	background="#1b334f" />
   <style name="text"	foreground="#abb2bf" background="#202329" />
-  <style name="sh:variable"    foreground="#81cef9" />
-  <style name="sh:variable-definition" foreground="#bebebe" />
-  <style name="sh:common-command"      foreground="#e4bf7b" />
-  <style name="sh:others"      foreground="#ffffff" />
-  <style name="sh:subshell"    foreground="#e4bf7b" />
-  <style name="markdown:url"   foreground="#c678dd" />
-  <style name="attribute-value"        foreground="#ffffff" />
-  <style name="markdown:blockquote-marker"     foreground="#f66151" />
-  <style name="markdown:code-block"    foreground="#679d47" />
-  <style name="markdown:code-span"     foreground="#c678dd" />
-  <style name="markdown:emphasis"      foreground="#f9f06b" />
-  <style name="markdown:header"        foreground="#99c1f1" />
-  <style name="markdown:horizontal-rule"       foreground="#1a5fb4" />
-  <style name="markdown:image-marker"  foreground="#f66151" />
-  <style name="markdown:label" foreground="#77767b" />
-  <style name="markdown:line-break"    foreground="#679d47" />
-  <style name="markdown:link-text"     foreground="#679d47" />
-  <style name="markdown:list-marker"   foreground="#d19a65" />
-  <style name="markdown:strong-emphasis"       foreground="#ffffff" />
-  <style name="markdown:attribute-value"       foreground="#ffbe6f" />
-  <style name="markdown:backslash-escape"      foreground="#ffffff" />
-  <style name="xml:attribute-value"    foreground="#98c379" />
-  <style name="xml:attribute-name"     foreground="#81cef9" />
-  <style name="attribute-name" foreground="#81cef9" />
-  <style name="xml:tag"        foreground="#ffffff" />
-
+  <style name="sh:variable"	foreground="#81cef9" />
+  <style name="sh:variable-definition"	foreground="#bebebe" />
+  <style name="sh:common-command"	foreground="#e4bf7b" />
+  <style name="sh:others"	foreground="#ffffff" />
+  <style name="sh:subshell"	foreground="#e4bf7b" />
+  <style name="markdown:url"	foreground="#c678dd" />
+  <style name="attribute-value"	foreground="#ffffff" />
+  <style name="markdown:blockquote-marker"	foreground="#f66151" />
+  <style name="markdown:code-block"	foreground="#679d47" />
+  <style name="markdown:code-span"	foreground="#c678dd" />
+  <style name="markdown:emphasis"	foreground="#f9f06b" />
+  <style name="markdown:header"	foreground="#99c1f1" />
+  <style name="markdown:horizontal-rule"	foreground="#1a5fb4" />
+  <style name="markdown:image-marker"	foreground="#f66151" />
+  <style name="markdown:label"	foreground="#77767b" />
+  <style name="markdown:line-break"	foreground="#679d47" />
+  <style name="markdown:link-text"	foreground="#679d47" />
+  <style name="markdown:list-marker"	foreground="#d19a65" />
+  <style name="markdown:strong-emphasis"	foreground="#ffffff" />
+  <style name="markdown:attribute-value"	foreground="#ffbe6f" />
+  <style name="markdown:backslash-escape"	foreground="#ffffff" />
+  <style name="xml:attribute-value"	foreground="#98c379" />
+  <style name="xml:attribute-name"	foreground="#81cef9" />
+  <style name="attribute-name"	foreground="#81cef9" />
+  <style name="xml:tag"	foreground="#ffffff" />
 </style-scheme>
