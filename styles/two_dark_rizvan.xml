@@ -35,7 +35,7 @@
   <style name="draw-spaces"	foreground="#404040" />
   <style name="line-numbers"	foreground="#808080" background="#202329" />
   <style name="search-match"	foreground="#000000" background="#1a5fb4" />
-  <style name="selection"	background="#1b334f" />
+  <style name="selection"	background="#195fb4" />
   <style name="text"	foreground="#abb2bf" background="#202329" />
   <style name="sh:variable"	foreground="#80a0ff" />
   <style name="sh:variable-definition"	foreground="#bebebe" />
@@ -62,5 +62,4 @@
   <style name="xml:attribute-name"	foreground="#81cef9" />
   <style name="attribute-name"	foreground="#81cef9" />
   <style name="xml:tag"	foreground="#ffffff" />
-  <style name="selection-unfocused"	background="#242424" />
 </style-scheme>
