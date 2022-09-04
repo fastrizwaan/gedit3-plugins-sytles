@@ -5,31 +5,31 @@
   <style name="bracket-match"	foreground="#101010" background="#c678dd" />
   <style name="current-line"	background="#202329" />
   <style name="cursor"	foreground="#5cb0f5" />
-  <style name="def:base-n-integer"	foreground="#e4bf7b" />
-  <style name="def:boolean"	foreground="#e4bf7b" />
+  <style name="def:base-n-integer"	foreground="#d2b071" />
+  <style name="def:boolean"	foreground="#d2b071" />
   <style name="def:builtin"	foreground="#c678dd" />
-  <style name="def:character"	foreground="#98c379" />
+  <style name="def:character"	foreground="#7b9f63" />
   <style name="def:comment"	foreground="#808080" />
-  <style name="def:complex"	foreground="#e4bf7b" />
-  <style name="def:constant"	foreground="#e4bf7b" />
+  <style name="def:complex"	foreground="#d2b071" />
+  <style name="def:constant"	foreground="#d2b071" />
   <style name="def:decimal"	foreground="#d19a66" />
   <style name="def:doc-comment-element"	foreground="#5f5a60" />
   <style name="def:doc-comment"	foreground="#bc9458" />
   <style name="def:error"	foreground="#efefef" background="#282c34" />
-  <style name="def:floating-point"	foreground="#e4bf7b" />
+  <style name="def:floating-point"	foreground="#d2b071" />
   <style name="def:function"	foreground="#80a0ff" />
   <style name="def:identifier"	foreground="#c678dd" />
   <style name="def:keyword"	foreground="#c678dd" />
   <style name="def:note"	foreground="#5f5a60" />
-  <style name="def:number"	foreground="#e4bf7b" />
+  <style name="def:number"	foreground="#d2b071" />
   <style name="def:operator"	foreground="#80a0ff" />
   <style name="def:preprocessor"	foreground="#c678dd" />
   <style name="def:reserved"	foreground="#cc7833" />
-  <style name="def:shebang"	foreground="#e4bf7b" />
-  <style name="def:special-char"	foreground="#98c379" />
+  <style name="def:shebang"	foreground="#d2b071" />
+  <style name="def:special-char"	foreground="#7b9f63" />
   <style name="def:special-constant"	foreground="#c678dd" />
   <style name="def:statement"	foreground="#c678dd" />
-  <style name="def:string"	foreground="#98c379" />
+  <style name="def:string"	foreground="#7b9f63" />
   <style name="def:type"	foreground="#c678dd" />
   <style name="draw-spaces"	foreground="#404040" />
   <style name="line-numbers"	foreground="#808080" background="#101010" />
@@ -38,9 +38,9 @@
   <style name="text"	foreground="#abb2bf" background="#101010" />
   <style name="sh:variable"	foreground="#80a0ff" />
   <style name="sh:variable-definition"	foreground="#bebebe" />
-  <style name="sh:common-command"	foreground="#e4bf7b" />
+  <style name="sh:common-command"	foreground="#d2b071" />
   <style name="sh:others"	foreground="#ffffff" />
-  <style name="sh:subshell"	foreground="#e4bf7b" />
+  <style name="sh:subshell"	foreground="#d2b071" />
   <style name="markdown:url"	foreground="#c678dd" />
   <style name="attribute-value"	foreground="#ffffff" />
   <style name="markdown:blockquote-marker"	foreground="#f66151" />
@@ -57,7 +57,7 @@
   <style name="markdown:strong-emphasis"	foreground="#ffffff" />
   <style name="markdown:attribute-value"	foreground="#ffbe6f" />
   <style name="markdown:backslash-escape"	foreground="#ffffff" />
-  <style name="xml:attribute-value"	foreground="#98c379" />
+  <style name="xml:attribute-value"	foreground="#7b9f63" />
   <style name="xml:attribute-name"	foreground="#81cef9" />
   <style name="attribute-name"	foreground="#81cef9" />
   <style name="xml:tag"	foreground="#ffffff" />
