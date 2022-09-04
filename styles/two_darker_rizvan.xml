@@ -3,7 +3,6 @@
   <description>Atom One Dark based darker style for Gedit3.</description>
 
   <style name="bracket-match"	foreground="#101010" background="#c678dd" />
-  <style name="bracket-mismatch"	background="#efefef" />
   <style name="current-line"	background="#202329" />
   <style name="cursor"	foreground="#5cb0f5" />
   <style name="def:base-n-integer"	foreground="#e4bf7b" />
@@ -34,7 +33,7 @@
   <style name="def:type"	foreground="#c678dd" />
   <style name="draw-spaces"	foreground="#404040" />
   <style name="line-numbers"	foreground="#808080" background="#101010" />
-  <style name="search-match"	foreground="#5f5a60" background="#abb2bf" />
+  <style name="search-match"	foreground="#000000" background="#1a5fb4" />
   <style name="selection"	background="#1b334f" />
   <style name="text"	foreground="#abb2bf" background="#101010" />
   <style name="sh:variable"	foreground="#80a0ff" />
@@ -63,4 +62,5 @@
   <style name="attribute-name"	foreground="#81cef9" />
   <style name="xml:tag"	foreground="#ffffff" />
   <style name="selection-unfocused"	background="#242424" />
+  <style name="bracket-mismatch"	background="#f66151" />
 </style-scheme>
