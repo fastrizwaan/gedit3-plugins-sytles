@@ -2,7 +2,7 @@
   <author>Mohammed Asif Ali Rizvan</author>
   <description>Atom One Dark based darker style for Gedit3.</description>
 
-  <style name="bracket-match"	foreground="#101010" background="#c678dd" />
+  <style name="bracket-match"	foreground="#ffbe6f" bold="true" />
   <style name="current-line"	background="#202329" />
   <style name="cursor"	foreground="#5cb0f5" />
   <style name="def:base-n-integer"	foreground="#d2b071" />

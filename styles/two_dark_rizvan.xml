@@ -34,7 +34,7 @@
   <style name="def:type"	foreground="#c678dd" />
   <style name="draw-spaces"	foreground="#404040" />
   <style name="line-numbers"	foreground="#808080" background="#202329" />
-  <style name="search-match"	foreground="#000000" background="#813d9c" />
+  <style name="search-match"	foreground="#000000" background="#1a5fb4" />
   <style name="selection"	background="#195fb4" />
   <style name="text"	foreground="#abb2bf" background="#202329" />
   <style name="sh:variable"	foreground="#80a0ff" />
