@@ -1,4 +1,4 @@
-<style-scheme name="Lapce Dark Rizvan" id="lapce-dark-rizvan" version="1.0">
+<style-scheme name="Lapce Darkest Rizvan" id="lapce-darkest-rizvan" version="1.0">
   <author>Mohammed Asif Ali Rizvan</author>
   <description>Atom One Dark based darker style for Gedit3.</description>
 
@@ -32,10 +32,10 @@
   <style name="def:string"	foreground="#98C379" />
   <style name="def:type"	foreground="#E06C75" />
   <style name="draw-spaces"	foreground="#3E4451" />
-  <style name="line-numbers"	foreground="#5C6370" background="#282C34" />
+  <style name="line-numbers"	foreground="#5C6370" background="#101010" />
   <style name="search-match"	foreground="#ABB2BF" background="#3E4451" />
   <style name="selection"	background="#3e4451" />
-  <style name="text"	foreground="#ABB2BF" background="#282C34" />
+  <style name="text"	foreground="#ABB2BF" background="#101010" />
   <style name="markdown:url"	foreground="#C678DD" />
   <style name="attribute-value"	foreground="#ABB2BF" />
   <style name="markdown:blockquote-marker"	foreground="#E06C75" />
