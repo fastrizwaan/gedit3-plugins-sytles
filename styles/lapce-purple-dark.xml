@@ -1,15 +1,14 @@
-<style-scheme name="Lapce Dark Purple" id="lapce-dark-purple" version="1.0">
+<style-scheme name="Lapce Purple Dark" id="lapce-purple-dark" version="1.0">
   <author>Mohammed Asif Ali Rizvan</author>
   <description>Atom One Dark based darker style for Gedit3.</description>
 
   <style name="bracket-match"	foreground="#E5C07B" bold="true" />
-  <style name="current-line"	background="#292740" />
+  <style name="current-line"	background="#32324d" />
   <style name="cursor"	foreground="#56B6C2" />
   <style name="def:base-n-integer"	foreground="#E5C07B" />
   <style name="def:boolean"	foreground="#E5C07B" />
   <style name="def:builtin"	foreground="#56B6C2" />
   <style name="def:character"	foreground="#98C379" />
-  <style name="def:comment"	foreground="#7b74bf" />
   <style name="def:complex"	foreground="#E5C07B" />
   <style name="def:constant"	foreground="#E5C07B" />
   <style name="def:decimal"	foreground="#E5C07B" />
@@ -32,10 +31,10 @@
   <style name="def:string"	foreground="#98C379" />
   <style name="def:type"	foreground="#E06C75" />
   <style name="draw-spaces"	foreground="#3E4451" />
-  <style name="line-numbers"	foreground="#5C6370" background="#2d2b46" />
-  <style name="search-match"	foreground="#ABB2BF" background="#3E4451" />
-  <style name="selection"	background="#13121f" />
-  <style name="text"	foreground="#ABB2BF" background="#2d2b46" />
+  <style name="line-numbers"	foreground="#5C6370" background="#2c2c43" />
+  <style name="search-match"	background="#3f3f5e" />
+  <style name="selection"	background="#3f3f5e" />
+  <style name="text"	foreground="#ABB2BF" background="#2c2c43" />
   <style name="markdown:url"	foreground="#C678DD" />
   <style name="attribute-value"	foreground="#ABB2BF" />
   <style name="markdown:blockquote-marker"	foreground="#E06C75" />
@@ -59,9 +58,9 @@
   <style name="bracket-mismatch"	background="#E06C75" />
   <style name="sh:common-command"	foreground="#61AFEF" />
   <style name="rust:attribute"	foreground="#ABB2BF" />
-  <style name="selection-unfocused"	background="#3E4451" />
+  <style name="selection-unfocused"	background="#32324d" />
   <style name="sh:subshell"	foreground="#E5C07B" />
   <style name="sh:variable"	foreground="#61AFEF" />
   <style name="sh:variable-definition"	foreground="#E06C75" />
- 
+  <style name="def:comment"	foreground="#656599" />
 </style-scheme>
