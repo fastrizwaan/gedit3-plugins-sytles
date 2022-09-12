@@ -1,0 +1,66 @@
+<style-scheme name="Lapce Solarized Dark" id="lapce-solarized-dark" version="1.0">
+  <author>Mohammed Asif Ali Rizvan</author>
+  <description>Atom One Dark based darker style for Gedit3 and Gnome-Text-Editor.</description>
+
+  <style name="bracket-match"	foreground="#E5C07B" bold="true" />
+  <style name="current-line"	background="#07303b" />
+  <style name="cursor"	foreground="#56B6C2" />
+  <style name="def:base-n-integer"	foreground="#E5C07B" />
+  <style name="def:boolean"	foreground="#E5C07B" />
+  <style name="def:builtin"	foreground="#56B6C2" />
+  <style name="def:character"	foreground="#98C379" />
+  <style name="def:complex"	foreground="#E5C07B" />
+  <style name="def:constant"	foreground="#E5C07B" />
+  <style name="def:decimal"	foreground="#E5C07B" />
+  <style name="def:doc-comment-element"	foreground="#5C6370" />
+  <style name="def:doc-comment"	foreground="#D19A66" />
+  <style name="def:error"	foreground="#E06C75" background="#282C34" />
+  <style name="def:floating-point"	foreground="#E5C07B" />
+  <style name="def:function"	foreground="#61AFEF" />
+  <style name="def:identifier"	foreground="#C678DD" />
+  <style name="def:keyword"	foreground="#c678dd" />
+  <style name="def:note"	foreground="#3E4451" />
+  <style name="def:number"	foreground="#E5C07B" />
+  <style name="def:operator"	foreground="#C678DD" />
+  <style name="def:preprocessor"	foreground="#ABB2BF" />
+  <style name="def:reserved"	foreground="#D19A66" />
+  <style name="def:shebang"	foreground="#E5C07B" />
+  <style name="def:special-char"	foreground="#98C379" />
+  <style name="def:special-constant"	foreground="#C678DD" />
+  <style name="def:statement"	foreground="#ABB2BF" />
+  <style name="def:string"	foreground="#98C379" />
+  <style name="def:type"	foreground="#E06C75" />
+  <style name="draw-spaces"	foreground="#3E4451" />
+  <style name="line-numbers"	foreground="#5C6370" background="#002a36" />
+  <style name="search-match"	background="#1e434d" />
+  <style name="selection"	background="#1e434d" />
+  <style name="text"	foreground="#ABB2BF" background="#002a36" />
+  <style name="markdown:url"	foreground="#C678DD" />
+  <style name="attribute-value"	foreground="#ABB2BF" />
+  <style name="markdown:blockquote-marker"	foreground="#E06C75" />
+  <style name="markdown:code-block"	foreground="#98C379" />
+  <style name="markdown:code-span"	foreground="#C678DD" />
+  <style name="markdown:emphasis"	foreground="#E5C07B" />
+  <style name="markdown:header"	foreground="#C678DD" />
+  <style name="markdown:horizontal-rule"	foreground="#C678DD" />
+  <style name="markdown:image-marker"	foreground="#E06C75" />
+  <style name="markdown:label"	foreground="#3E4451" />
+  <style name="markdown:line-break"	foreground="#98C379" />
+  <style name="markdown:link-text"	foreground="#98C379" />
+  <style name="markdown:list-marker"	foreground="#d19a65" />
+  <style name="markdown:strong-emphasis"	foreground="#ABB2BF" />
+  <style name="markdown:attribute-value"	foreground="#E5C07B" />
+  <style name="markdown:backslash-escape"	foreground="#ABB2BF" />
+  <style name="xml:attribute-value"	foreground="#98C379" />
+  <style name="xml:attribute-name"	foreground="#61AFEF" />
+  <style name="attribute-name"	foreground="#61AFEF" />
+  <style name="xml:tag"	foreground="#ABB2BF" />
+  <style name="bracket-mismatch"	background="#E06C75" />
+  <style name="sh:common-command"	foreground="#61AFEF" />
+  <style name="rust:attribute"	foreground="#ABB2BF" />
+  <style name="selection-unfocused"	background="#1e434d" />
+  <style name="sh:subshell"	foreground="#E5C07B" />
+  <style name="sh:variable"	foreground="#61AFEF" />
+  <style name="sh:variable-definition"	foreground="#E06C75" />
+  <style name="def:comment"	foreground="#586e75" />
+</style-scheme>
